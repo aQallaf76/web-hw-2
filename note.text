@@ -1,0 +1,72 @@
+ <table class="tb">
+        <tr>
+            <th>Best Movies</th>
+            <th>Best Shows</th>
+        </tr>
+        <tr>
+            <!-- movie 1 -->
+            <td>E.T. the Extra-Terrestrial (1982)
+                <br>
+                <img src="img/et.jpg" alt="E T" width="500px"></td>
+            <!-- show 1 -->
+            <td>The Blacklist <br>
+
+                <img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpNIJomnAMR8uJKPA-HtR07iiw_zfli_kzISOnC76ncXe0-L0W&usqp=CAU">
+            </td>
+        </tr>
+        <tr>
+            <!-- movie 2 -->
+            <td>Back to the Future (1985)
+                <br>
+                <img src="./img/back-to-the-future-netflix-thumb-1200x9999.jpg">
+            </td>
+            <!-- show 2 -->
+            <td>Breaking Bad
+                <br>
+                <img src="./img/breakingbad.jpg"></td>
+        </tr>
+        <tr>
+            <!-- movie 3 -->
+            <td>Indiana Jones and the Raiders of the Lost Ark (1981)
+                <br>
+                <img
+                    src="https://icdn3.digitaltrends.com/image/digitaltrentd/best-netflix-movies-raiders-of-the-lost-ark-1200x9999.jpg">
+            </td>
+            <!-- show 3 -->
+            <td>Ozarks
+                <br>
+                <img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRADP16lPK-iFrfvTzr9pG_fjYBaxrMpAIpjFTNJ4JRJv7ARnY&usqp=CAU">
+            </td>
+        </tr>
+        <!-- <tr>
+            <td>The Irishman (2019)
+                <br>
+                <img
+                    src="https://icdn2.digitaltrends.com/image/digitaltrends/best-netflix-movies-the-irishman-1200x9999.jpg">
+            </td>
+        </tr> -->
+        <tr>
+            <!-- movie 4 -->
+            <td>Dolemite Is My Name (2019)
+                <br>
+                <img src="./img/dolomite.jpg"></td>
+            <!-- show 4 -->
+            <td>Narcos (Colombia)
+                <br>
+                <img src="./img/narcos.jpg"></td>
+        </tr>
+        <tr>
+            <!-- movie 5 -->
+            <td>El Camino (2019)
+                <br>
+                <img src="https://icdn2.digitaltrends.com/image/digitaltrends/el-camino-2-1200x9999.jpg"></td>
+            <!-- show 5 -->
+            <td>Stranger Things
+                <br>
+                <img src="./img/Stranger.jpg"></td>
+        </tr>
+
+
+    </table>
